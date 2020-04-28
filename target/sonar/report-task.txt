@@ -1,0 +1,6 @@
+projectKey=juliet-resource-leak
+serverUrl=http://localhost:9000
+serverVersion=8.2.0.32929
+dashboardUrl=http://localhost:9000/dashboard?id=juliet-resource-leak
+ceTaskId=AXG9c8jALspQ1fAGhSrQ
+ceTaskUrl=http://localhost:9000/api/ce/task?id=AXG9c8jALspQ1fAGhSrQ
